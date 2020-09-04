@@ -9,7 +9,7 @@
     "acorn": "^7.1.1",
     "axios": "^0.19.2",
     "minimist": "^1.2.2",
-    "react": "^0.0.0-experimental-355970aa4",
+    "react": "^0.14.0",
     "react-dom": "^0.0.0-experimental-355970aa4",
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0",
